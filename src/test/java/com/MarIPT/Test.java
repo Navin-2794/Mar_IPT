@@ -6,4 +6,7 @@ public class Test {
 		System.out.println();
 	}
 
+	public void deva() {
+		System.out.println();
+	}
 }
