@@ -9,4 +9,7 @@ public class Test {
 	public void deva() {
 		System.out.println("Deva");
 	}
+	public void praveenMass() {
+		System.out.println("Deva");
+	}
 }
