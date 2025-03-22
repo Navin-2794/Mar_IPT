@@ -7,6 +7,6 @@ public class Test {
 	}
 
 	public void deva() {
-		System.out.println();
+		System.out.println("Deva");
 	}
 }
