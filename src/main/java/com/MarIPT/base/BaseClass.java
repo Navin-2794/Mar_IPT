@@ -59,6 +59,11 @@ public abstract class BaseClass {
 		}
 		
 	}
+
+
+
+
+	
 	public static void clickElement(WebDriver driver, WebElement element) {
 		try {
 			new WebDriverWait(driver, Duration.ofSeconds(15)) 
