@@ -77,7 +77,7 @@ public void title()
 System.out.println(driver.getTitle());
 		
 }
-/*@Test(priority=5)
+@Test(priority=5)
 public void driverclose()
 {
 	driver.close();
@@ -86,5 +86,5 @@ public void driverclose()
 public void driverquit()
 {
 driver.quit();	
-}*/
+}
 }
